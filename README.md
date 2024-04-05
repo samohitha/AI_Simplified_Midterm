@@ -1,6 +1,6 @@
 # Simplified Midterm Project
 
-**Project Presentation Link:** [Click here to watch the presentation]()
+**Project Presentation Link:** [Click here to watch the presentation](https://youtu.be/qszXuuhMAl8)
 
 ## Introduction
 This project demonstrates the process of training, testing, and deploying a SKLearn model on AWS SageMaker, accessible through a web application client.
